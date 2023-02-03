@@ -1,0 +1,23 @@
+{
+  "name": "fullcycle-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malkaviano/fullcycle-ci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malkaviano/fullcycle-ci/issues"
+  },
+  "homepage": "https://github.com/malkaviano/fullcycle-ci#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
